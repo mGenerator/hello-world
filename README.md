@@ -1,1 +1,1 @@
-Hello World repository for Git tutorial. Thios is an example repository for the Git tutorial on https://www.w3schools.com. This repository loosely follows the tutorial.
+Hello World repository for Git tutorial. Thios is an example repository for the Git tutorial on https://www.w3schools.com. This repository loosely follows the tutorial. Supercalifragilisticespialidotious!
